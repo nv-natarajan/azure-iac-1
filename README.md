@@ -5,7 +5,9 @@ https://az-900.com/
 https://marczak.io/az-900/
 
 Adam Marczak Material
+
 Episode 0: Course Overview
+
 Episode 1: Cloud Computing, High Availability, Scalability, Elasticity, Agility, Fault Tolerance, and Disaster Recovery
  https://marczak.io/az-900/episode-01/cheat-sheet/
  https://marczak.io/az-900/episode-01/practice-test/
